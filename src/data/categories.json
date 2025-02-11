@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Sports",
+    "questions": [
+      { "clue": "Which player holds the record for the most career points in the NBA?", "answer": "LeBron James", "value": 200 },
+      { "clue": "Which NFL team won the first-ever Super Bowl in 1967?", "answer": "Green Bay Packers", "value": 400 },
+      { "clue": "Who holds the record for the most career home runs in Major League Baseball?", "answer": "Barry Bonds", "value": 600 },
+      { "clue": "Which NBA team has won the most championships?", "answer": "Boston Celtics", "value": 800 },
+      { "clue": "Who was the youngest quarterback to win a Super Bowl?", "answer": "Ben Roethlisberger", "value": 1000 }
+    ]
+  },
+  {
+    "name": "Harry Potter",
+    "questions": [
+      { "clue": "What is the name of Harry Potter’s pet owl?", "answer": "Hedwig", "value": 200 },
+      { "clue": "Which Hogwarts house values bravery and courage?", "answer": "Gryffindor", "value": 400 },
+      { "clue": "What is the name of the wizarding prison guarded by Dementors?", "answer": "Azkaban", "value": 600 },
+      { "clue": "What magical object selects the Hogwarts students' houses?", "answer": "The Sorting Hat", "value": 800 },
+      { "clue": "Which potion grants the drinker luck for a limited time?", "answer": "Felix Felicis", "value": 1000 }
+    ]
+  },
+  {
+    "name": "History",
+    "questions": [
+      { "clue": "Who was the first President of the United States?", "answer": "George Washington", "value": 200 },
+      { "clue": "In what year did World War II end?", "answer": "1945", "value": 400 },
+      { "clue": "Which ancient civilization built the pyramids?", "answer": "The Egyptians", "value": 600 },
+      { "clue": "What was the name of the ship that brought the Pilgrims to America?", "answer": "The Mayflower", "value": 800 },
+      { "clue": "Who was the first man to walk on the moon?", "answer": "Neil Armstrong", "value": 1000 }
+    ]
+  },
+  {
+    "name": "Teenager Lingo",
+    "questions": [
+      { "clue": "What does 'GOAT' stand for in slang?", "answer": "Greatest of All Time", "value": 200 },
+      { "clue": "What does 'simp' mean in modern slang?", "answer": "Someone who is overly attentive to someone they like", "value": 400 },
+      { "clue": "What does 'no cap' mean?", "answer": "Telling the truth, no lie", "value": 600 },
+      { "clue": "What does 'yeet' mean?", "answer": "To throw something forcefully", "value": 800 },
+      { "clue": "If something is 'fire', what does it mean?", "answer": "It’s really good or amazing", "value": 1000 }
+    ]
+  },
+  {
+    "name": "Church History",
+    "questions": [
+      { "clue": "Who nailed the 95 Theses to the church door in Wittenberg?", "answer": "Martin Luther", "value": 200 },
+      { "clue": "Which council established the Nicene Creed?", "answer": "The Council of Nicaea", "value": 400 },
+      { "clue": "What year was the King James Bible first published?", "answer": "1611", "value": 600 },
+      { "clue": "Who was the first Pope of the Catholic Church?", "answer": "Saint Peter", "value": 800 },
+      { "clue": "Which event led to the split between the Catholic and Eastern Orthodox churches?", "answer": "The Great Schism of 1054", "value": 1000 }
+    ]
+  }
+]
+
